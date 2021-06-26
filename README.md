@@ -1,6 +1,6 @@
 # Puissance 4
 
-(Projet de fin d'année de B3 réupload en public sans nos accès bdd)
+(Projet de fin d'année de B3 reupload en public sans nos accès bdd)
 
 # Sommaire
 
