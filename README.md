@@ -1,5 +1,7 @@
 # Puissance 4
 
+(Projet de fin d'année de B3 réupload en public sans nos accès bdd)
+
 # Sommaire
 
 -   1- Présentation
