@@ -1,0 +1,8 @@
+
+# Created by https://www.toptal.com/developers/gitignore/api/dotnetcore,python
+# Edit at https://www.toptal.com/developers/gitignore?templates=dotnetcore,python
+
+# vscode extension
+.ionide/
+
+# End of https://www.toptal.com/developers/gitignore/api/dotnetcore,python
